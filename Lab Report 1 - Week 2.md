@@ -13,7 +13,7 @@ ___
 
 ![Image](ssh_command.png)
 
-- use the command above to create ssh connection with the server ieng6
+- use the command above `ssh {username}@{domain}` to create ssh connection with the server ieng6
 - replace acq with the user name you are given to
 - enter the password
 
@@ -42,7 +42,7 @@ ___
 
 ### Step 5 Setting an SSH Key
 
-- generate a key on your computer by command 'ssh-keygen'
+- generate a key on your computer by command `ssh-keygen`
 - enter empty input for the following options
 ![Image](keys.png)
 
