@@ -21,13 +21,24 @@ ___
 
 ### Step 3 Trying Some Commands
 - use some of these the commands in the terminal
-![Image](commands.png)
+1. `cd ~`
+2. `cd`
+3. `ls -lat`
+4. `ls -a`
+5. `ls <directory>`
+6. `pwd`
+
+
 - the command will operate based on the platform you are at (local / remote)
 
+### example: 
+
+#### 1. local operation:
 ![Image](command_local.png)
-**local**
+
+#### 2. remote operation:
+
 ![Image](command_server.png)
-**remote**
 
 ___
 
@@ -36,7 +47,9 @@ ___
 - use the command `scp WhereAmI.java cs15lsp22acq@ieng6.ucsd` to copy a file
 ![Image](scp.png)
 
-- successful copy command will load a progress bar.
+- successful copy command will load a progress bar like this:
+
+![Image](bar.png)
 
 ___
 
@@ -45,7 +58,6 @@ ___
 - generate a key on your computer by command `ssh-keygen`
 - enter empty input for the following options
 
-![Image](keys.png)
 
 - use the command `scp {file path} {username}@{domain}:{target location}`
 - copy the public key file to the server path at '~/.ssh/authorized_keys'
