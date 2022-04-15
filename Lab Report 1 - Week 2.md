@@ -44,6 +44,7 @@ ___
 
 - generate a key on your computer by command `ssh-keygen`
 - enter empty input for the following options
+
 ![Image](keys.png)
 
 - use the command `scp {file path} {username}@{domain}:{target location}`
