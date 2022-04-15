@@ -8,7 +8,6 @@
 ![Image](vsc.png)
 ___
 
-
 ### Step 2 Remotely Connecting
 
 ![Image](ssh_command.png)
@@ -17,6 +16,7 @@ ___
 - replace acq with the user name you are given to
 - enter the password
 ___
+
 ### Step 3 Trying Some Commands
 - use some of these the commands in the terminal
 ![Image](commands.png)
@@ -27,6 +27,7 @@ ___
 ![Image](command_server.png)
 **remote**
 ___
+
 ### Step 4 Moving Files with scp
 
 - use the command `scp WhereAmI.java cs15lsp22acq@ieng6.ucsd` to copy a file
@@ -34,6 +35,7 @@ ___
 
 - successful copy command will load a progress bar.
 ___
+
 ### Step 5 Setting an SSH Key
 
 - generate a key on your computer by command 'ssh-keygen'
@@ -47,6 +49,7 @@ ___
 *quick login demo*
 
 ___
+
 ### Step 6 Optimizing Remote Running
 - to optimize the copy operation to a remote server is:
 1. setup the ssh key
