@@ -6,6 +6,7 @@
 1. download vsc from [Visual Studio Code](https://code.visualstudio.com/)
 2. install vsc 
 ![Image](vsc.png)
+
 ___
 
 ### Step 2 Remotely Connecting
@@ -15,6 +16,7 @@ ___
 - use the command above to create ssh connection with the server ieng6
 - replace acq with the user name you are given to
 - enter the password
+
 ___
 
 ### Step 3 Trying Some Commands
@@ -26,6 +28,7 @@ ___
 **local**
 ![Image](command_server.png)
 **remote**
+
 ___
 
 ### Step 4 Moving Files with scp
@@ -34,6 +37,7 @@ ___
 ![Image](scp.png)
 
 - successful copy command will load a progress bar.
+
 ___
 
 ### Step 5 Setting an SSH Key
