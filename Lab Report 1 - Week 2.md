@@ -53,9 +53,10 @@ ___
 2. combine multiple commands in the same line
 
 eg: to copy and run a file to a server with ssh key set.
+![Image](HW.png)
 
 command1: `scp {file path}@{server domain}: target path`
 
-command2: `ssh {username} “javac WhereAmI.java; java WhereAmI`
+command2: `ssh {username} {Command 1};{Command 2}`
 
 ___
