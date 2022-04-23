@@ -38,4 +38,5 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣵⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 # [next](https://vanvansan.github.io/cse15l-lab-reports/test.html)
-# [report](https://vanvansan.github.io/cse15l-lab-reports/cse15l-lab-reports.html)
+# [report1](https://vanvansan.github.io/cse15l-lab-reports/cse15l-lab-reports.html)
+# [report2](https://vanvansan.github.io/cse15l-lab-reports/cse15l-lab-reports.html)
