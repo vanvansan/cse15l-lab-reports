@@ -6,10 +6,14 @@
 [failure inducing file link](https://github.com/vanvansan/markdown-parser/edit/main/test-file.md)
 ![image](endingbug.png)
 
+Symptoms:
 
+![image](bug1.png)
+
+Bug: the program does not have a condition checking for ending boundary. The program keeps looking for next open bracket even where there are none left.
 ___
 
 
-### Step 4 Moving Files with scp
+### Bug two: failure to differenciate between an image file and a link
 
 - use the command `scp WhereAmI.java cs15lsp22acq@ieng6.ucsd` to copy a file 
