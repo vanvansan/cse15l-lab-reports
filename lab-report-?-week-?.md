@@ -11,4 +11,4 @@ ___
 
 ### Step 4 Moving Files with scp
 
-- use the command `scp WhereAmI.java cs15lsp22acq@ieng6.ucsd` to copy a file
+- use the command `scp WhereAmI.java cs15lsp22acq@ieng6.ucsd` to copy a file 
