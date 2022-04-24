@@ -11,6 +11,7 @@ Symptoms:
 ![image](bug1.png)
 
 Bug: the program does not have a condition checking for ending boundary. The program keeps looking for next open bracket even where there are none left.
+
 ___
 
 ### Bug two: failure to differenciate between an image file and a link
@@ -23,6 +24,7 @@ Symptoms:
 ![image](bug2.png)
 
 Bug: The program will extract the image file path as a link. This is due to the lack of checking if the content in the brackets is image.
+
 ___
 
 ### Bug three: failure to run a file without links
@@ -35,5 +37,6 @@ Symptoms:
 ![image](bug3.png)
 
 Bug: The program did not jump out of the loop when there is no bracket/parenthesis. When the open bracket is not found, it will find the close bracket at index -1, which will throw index out of bound exception.
+
 ___
 
