@@ -39,4 +39,4 @@
 ```
 # [next](https://vanvansan.github.io/cse15l-lab-reports/test.html)
 # [report1](https://vanvansan.github.io/cse15l-lab-reports/cse15l-lab-reports.html)
-# [report2](Lab report 2/Lab Report 2 - Week 4.html)
+# [report2](https://vanvansan.github.io/cse15l-lab-reports/Lab report 2/Lab Report 2 - Week 4.html)
