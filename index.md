@@ -40,5 +40,5 @@
 # [next](https://vanvansan.github.io/cse15l-lab-reports/test.html)
 # [report1](https://vanvansan.github.io/cse15l-lab-reports/cse15l-lab-reports.html)
 # [report2](https://vanvansan.github.io/cse15l-lab-reports/Lab report 2/Lab Report 2 - Week 4.html)
-# [report3](https://vanvansan.github.io/cse15l-lab-reports/Lab report 3/Lab Report 3 - Week 6.html)
+# [report3](https://vanvansan.github.io/cse15l-lab-reports/Lab report 3/lab-report-3-week-6.html)
 
