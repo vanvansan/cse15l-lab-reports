@@ -9,6 +9,7 @@
 ![Image](logged-in.png)
 2. the `scp` command to copy a file to the account
 ![Image](copy.png)
+
 ___
 
 ### Setup Github Access from ieng6
@@ -21,6 +22,7 @@ ___
 - [commit link](https://github.com/vanvansan/cse15l-lecture2/commit/94fe26f85068ce7fd6f807da3cd934e10fe7331c)
 
 ___
+
 ### Copy Whole Directories with `scp -r`
 
 - copy the markdown-paser directory
