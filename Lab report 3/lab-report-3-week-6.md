@@ -17,7 +17,8 @@ ___
 ![Image](pubkey.png)
 - the private key
 ![Image](prikey.png)
-[commit link](https://github.com/vanvansan/cse15l-lecture2/commit/94fe26f85068ce7fd6f807da3cd934e10fe7331c)
+
+- [commit link](https://github.com/vanvansan/cse15l-lecture2/commit/94fe26f85068ce7fd6f807da3cd934e10fe7331c)
 
 ___
 ### Copy Whole Directories with `scp -r`
@@ -28,7 +29,7 @@ ___
 - compiling and running the test on ieng6
 ![Image](run.png)
 
--combining multiple commands in the same line
+- combining multiple commands in the same line
 ![Image](combine.png)
 
 
