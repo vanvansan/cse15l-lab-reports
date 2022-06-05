@@ -10,6 +10,9 @@
 - So I uploaded my `MarkdownParse.java` to the same directory and changed the file name to `MyMarkdownParse.java`, and edited the `script.sh` file to make it print out the results at the same time in the command window. 
 ![image](script.png)
 
+- output in command line
+![image](test194.png)
+
 ### [The link to test file](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md)
 - the expected output shown by VSC preview window
 ![image](test201.png)
